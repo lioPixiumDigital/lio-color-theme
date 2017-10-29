@@ -1,0 +1,22 @@
+{
+    "name": "lio-color-theme",
+    "displayName": "lio-color-theme",
+    "description": "dark color theme by lio",
+    "version": "0.0.1",
+    "publisher": "lio",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lio's Dark Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lio's Dark Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
