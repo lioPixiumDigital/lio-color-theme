@@ -15,7 +15,7 @@
             {
                 "label": "Lio's Dark Color Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Lio's Dark Color Theme-color-theme.json"
+                "path": "./themes/lio-color-theme.json"
             }
         ]
     }
