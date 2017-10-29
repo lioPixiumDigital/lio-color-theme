@@ -112,7 +112,7 @@
 		  "name": "Comment",
 		  "scope": "comment",
 		  "settings": {
-			"foreground": "#505a6e"
+			"foreground": "#515b6e" // "#8a8769"  #505a6e
 		  }
 		},
 		{
