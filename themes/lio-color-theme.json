@@ -112,7 +112,9 @@
 		  "name": "Comment",
 		  "scope": "comment",
 		  "settings": {
-			"foreground": "#73695a" // "7e633a
+            //"foreground": "#73695a" // "7e633a
+            "foreground": "#80715e",
+			"fontStyle": "italic"
 		  }
 		},
 		{
